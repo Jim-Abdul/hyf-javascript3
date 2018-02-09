@@ -29,8 +29,7 @@ class Staff {
 }
 //let myMovie = new Movie(...);
 let myMovie = new Movies("Logan", "James Mangold");
-
-
+git 
 
 myMovie.addStar(new Staff('Hugh Jackman', "actor", 49));
 myMovie.addStar(new Staff("Scott Frank", "writer", 57));
